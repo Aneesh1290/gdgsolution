@@ -1,0 +1,4 @@
+flask
+flask-cors
+scikit-learn  # (if your app needs it)
+sqlite3
